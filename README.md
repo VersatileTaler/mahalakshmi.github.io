@@ -5,7 +5,7 @@ Software Engineer • QA Engineer • DevOps Enthusiast • Automation Tester
 </h3>
 
 <p align="center">
-<img src="assets/profile.png" width="180" alt="Mahalakshmi"/>
+<img src="assets/Maha.png" width="180" alt="Mahalakshmi"/>
 </p>
 
 <p align="center">
