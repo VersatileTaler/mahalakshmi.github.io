@@ -1,0 +1,9 @@
+title: My Portfolio Site
+logo: /assets/img/Maha.png
+description: A clean, sleek website powered by GitHub Pages.
+show_downloads: true
+
+# Configures the theme through the remote theme plugin
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
